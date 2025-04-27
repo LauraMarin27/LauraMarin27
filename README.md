@@ -3,6 +3,8 @@
 
 - 💬 Ask me about **html, css , scss , javascript**
 
+- 📫 How to reach me **laura.marins0927@gmail.com**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/laura marin sepulveda" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="laura marin sepulveda" height="30" width="40" /></a>
